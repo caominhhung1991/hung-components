@@ -1,4 +1,4 @@
-# hung-components-lib
+# hung-components
 
 > Made with create-react-library
 
@@ -7,7 +7,7 @@
 ## Install
 
 ```bash
-npm install --save hung-components-lib
+npm install --save hung-components
 ```
 
 ## Usage
@@ -15,7 +15,7 @@ npm install --save hung-components-lib
 ```tsx
 import React, { Component } from 'react'
 
-import MyComponent from 'hung-components-lib'
+import MyComponent from 'hung-components'
 import 'hung-components-lib/dist/index.css'
 
 class Example extends Component {
