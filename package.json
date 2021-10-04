@@ -4,7 +4,7 @@
   "description": "Made with create-react-library",
   "author": "caominhhung1991",
   "license": "MIT",
-  "repository": "caominhhung1991/hung-components-lib",
+  "repository": "caominhhung1991/hung-components",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.tsx",
